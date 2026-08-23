@@ -16,4 +16,20 @@ LEETCODE
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

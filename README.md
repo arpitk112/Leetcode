@@ -42,16 +42,19 @@ LEETCODE
 | ------- |
 | [0207-course-schedule](https://github.com/arpitk112/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitk112/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/arpitk112/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitk112/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/arpitk112/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitk112/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -69,4 +72,16 @@ LEETCODE
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arpitk112/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ LEETCODE
 | ------- |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arpitk112/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arpitk112/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +61,12 @@ LEETCODE
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/arpitk112/Leetcode/tree/master/0207-course-schedule) |
+## Two Pointers
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arpitk112/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arpitk112/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->

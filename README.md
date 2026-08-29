@@ -7,6 +7,7 @@ LEETCODE
 | ------- |
 | [0001-two-sum](https://github.com/arpitk112/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ LEETCODE
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -84,4 +86,8 @@ LEETCODE
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/arpitk112/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->

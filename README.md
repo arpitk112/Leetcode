@@ -7,6 +7,7 @@ LEETCODE
 | ------- |
 | [0001-two-sum](https://github.com/arpitk112/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -106,4 +107,32 @@ LEETCODE
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/arpitk112/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

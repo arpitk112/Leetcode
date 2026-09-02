@@ -1,33 +1,19 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        sort(nums1.begin(),nums1.end());
-        bool ans = true;
-
-        vector<int>odd;
-        vector<int>even;
-
+        int min_odd = INT_MAX;
+        int min_even = INT_MAX;
+        
         for(int num : nums1){
-            if(num % 2 == 0){
-                even.push_back(num);
+            if(num % 2 == 1){
+                min_odd = min(min_odd,num);
             }else{
-                odd.push_back(num);
+                min_even = min(min_even,num);
             }
         }
-        // [5,13] [6]
 
-        for(int e : even){
-            for(int o : odd){
-                if(e - o >= 1){
-                    break;
-                }else{
-                    ans = false;
-                    break;
-                }
-            }
-        }
-        cout << ans;
-        // if(odd.size() > 0 && even.size() > 0) return  false;
-        return ans && true;
+        if(min_odd == INT_MAX || min_even == INT_MAX || min_even > min_odd) return true;
+
+        return false;
     }
 };

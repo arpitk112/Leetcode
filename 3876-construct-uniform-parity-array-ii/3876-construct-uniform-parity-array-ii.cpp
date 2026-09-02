@@ -5,7 +5,7 @@ public:
         int min_even = INT_MAX;
         
         for(int num : nums1){
-            if(num % 2 == 1){
+            if(num & 1 == 1){
                 min_odd = min(min_odd,num);
             }else{
                 min_even = min(min_even,num);

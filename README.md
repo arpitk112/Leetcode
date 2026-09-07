@@ -33,6 +33,7 @@ LEETCODE
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/arpitk112/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arpitk112/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -139,4 +140,8 @@ LEETCODE
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/arpitk112/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->

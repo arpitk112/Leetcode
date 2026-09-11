@@ -10,6 +10,7 @@ LEETCODE
 | [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arpitk112/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arpitk112/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -18,6 +19,7 @@ LEETCODE
 | ------- |
 | [0001-two-sum](https://github.com/arpitk112/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -88,6 +90,7 @@ LEETCODE
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arpitk112/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -153,4 +156,8 @@ LEETCODE
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arpitk112/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

@@ -160,4 +160,8 @@ LEETCODE
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arpitk112/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ LEETCODE
 | [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
 | [0835-image-overlap](https://github.com/arpitk112/Leetcode/tree/master/0835-image-overlap) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -20,12 +21,14 @@ LEETCODE
 | ------- |
 | [0001-two-sum](https://github.com/arpitk112/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arpitk112/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
@@ -121,6 +124,7 @@ LEETCODE
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,4 +173,8 @@ LEETCODE
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/arpitk112/Leetcode/tree/master/0835-image-overlap) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->

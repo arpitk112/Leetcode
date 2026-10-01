@@ -39,6 +39,7 @@ LEETCODE
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitk112/Leetcode/tree/master/0020-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/arpitk112/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpitk112/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -181,9 +182,11 @@ LEETCODE
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitk112/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpitk112/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitk112/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpitk112/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

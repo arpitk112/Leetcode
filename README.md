@@ -11,6 +11,7 @@ LEETCODE
 | [0835-image-overlap](https://github.com/arpitk112/Leetcode/tree/master/0835-image-overlap) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arpitk112/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -97,6 +98,7 @@ LEETCODE
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arpitk112/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arpitk112/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find

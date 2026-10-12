@@ -12,6 +12,7 @@ LEETCODE
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitk112/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitk112/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -23,6 +24,7 @@ LEETCODE
 | [0001-two-sum](https://github.com/arpitk112/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitk112/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitk112/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arpitk112/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arpitk112/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -52,6 +54,7 @@ LEETCODE
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitk112/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
@@ -198,4 +201,8 @@ LEETCODE
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arpitk112/Leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitk112/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->

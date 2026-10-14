@@ -37,6 +37,7 @@ LEETCODE
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/arpitk112/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arpitk112/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arpitk112/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -55,6 +56,7 @@ LEETCODE
 | ------- |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitk112/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/arpitk112/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |
 | ------- |

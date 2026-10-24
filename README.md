@@ -38,6 +38,7 @@ LEETCODE
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/arpitk112/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arpitk112/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arpitk112/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arpitk112/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -50,6 +51,7 @@ LEETCODE
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arpitk112/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/arpitk112/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arpitk112/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/arpitk112/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy

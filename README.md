@@ -7,6 +7,7 @@ LEETCODE
 | ------- |
 | [0001-two-sum](https://github.com/arpitk112/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/arpitk112/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitk112/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/arpitk112/Leetcode/tree/master/0493-reverse-pairs) |
 | [0835-image-overlap](https://github.com/arpitk112/Leetcode/tree/master/0835-image-overlap) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitk112/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -38,6 +39,7 @@ LEETCODE
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitk112/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1927-sum-game](https://github.com/arpitk112/Leetcode/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/arpitk112/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arpitk112/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -133,6 +135,7 @@ LEETCODE
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitk112/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arpitk112/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
